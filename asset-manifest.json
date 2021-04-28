@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/optimized-login-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/optimized-login-app/static/js/main.74e8c737.chunk.js",
+    "main.js.map": "/optimized-login-app/static/js/main.74e8c737.chunk.js.map",
+    "runtime-main.js": "/optimized-login-app/static/js/runtime-main.48123bb5.js",
+    "runtime-main.js.map": "/optimized-login-app/static/js/runtime-main.48123bb5.js.map",
+    "static/css/2.658248ec.chunk.css": "/optimized-login-app/static/css/2.658248ec.chunk.css",
+    "static/js/2.53fe07d4.chunk.js": "/optimized-login-app/static/js/2.53fe07d4.chunk.js",
+    "static/js/2.53fe07d4.chunk.js.map": "/optimized-login-app/static/js/2.53fe07d4.chunk.js.map",
+    "static/js/3.50e6315b.chunk.js": "/optimized-login-app/static/js/3.50e6315b.chunk.js",
+    "static/js/3.50e6315b.chunk.js.map": "/optimized-login-app/static/js/3.50e6315b.chunk.js.map",
+    "index.html": "/optimized-login-app/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/optimized-login-app/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/optimized-login-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.53fe07d4.chunk.js.LICENSE.txt": "/optimized-login-app/static/js/2.53fe07d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48123bb5.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.53fe07d4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.74e8c737.chunk.js"
+  ]
+}
